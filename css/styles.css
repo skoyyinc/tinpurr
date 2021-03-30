@@ -87,13 +87,13 @@ p {
   padding: 3%;
 }
 
-.feature-div icon {
+.feature-div .icon {
   color: #77d8d8;
   opacity: 80%;
   margin-bottom: 5%;
 }
 
-.icon:hover{
+.feature-div .icon:hover{
   opacity: 100%;
 }
 
