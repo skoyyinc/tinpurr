@@ -1,2 +1,2 @@
 # tinpurr
-A Startup Website Template Sample
+A Start Up Website Template 
